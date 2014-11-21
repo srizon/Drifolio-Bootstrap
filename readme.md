@@ -17,8 +17,7 @@ http://shapebootstrap.net/item/drifolio-free-responsive-dribbble-portfolio-templ
 
 This is a free Bootstrap powered HTML template from EvenFly. Feel free to download, modify and use it for yourself or your clients as long there is no money involved.
 
-Please don't try to sale it from anywhere; because I want it to be free, forever. If sale it,
-that's me who deserves the money, not you :)
+Please don't try to sale it from anywhere; because I want it to be free, forever. If you sale it, that's me who deserves the money, not you :)
 
 Documentetion and credits
 ---------------------------
