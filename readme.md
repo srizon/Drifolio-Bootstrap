@@ -1,8 +1,6 @@
----------------------------
 What & Why Drifolio?
 ---------------------------
 Drifolio - stands for Dribbble Portfolio.
-
 
 There are many designers around me don't have enough time to setup and manage their own website.
 For them it could be a great template that needs one time setup.
@@ -12,8 +10,11 @@ And after that, whenever you post something on dribbble, it'll come automaticall
 There's nothing to do there again :)
 
 Live demo: http://creatrix.us/demo/drifolio/
+
 View the post on dribbble: http://drbl.in/mVHv
-Also available on ShapeBootstrap: http://shapebootstrap.net/item/drifolio-free-responsive-dribbble-portfolio-template/
+
+Also available on ShapeBootstrap:
+http://shapebootstrap.net/item/drifolio-free-responsive-dribbble-portfolio-template/
 
 This is a free Bootstrap powered HTML template from EvenFly. Feel free to download,
 modify and use it for yourself or your clients as long there is no money involved.
@@ -21,7 +22,6 @@ modify and use it for yourself or your clients as long there is no money involve
 Please don't try to sale it from anywhere; because I want it to be free, forever. If sale it,
 that's me who deserves the money, not you :)
 
----------------------------
 Documentetion and credits
 ---------------------------
 Here is a short documentetion about basic changes on the template
@@ -31,7 +31,6 @@ Feel free to drop an email to support@evenfly.com
 if you have any question/suggestions.
 
 
----------------------------
 THANKS!
 ---------------------------
 If you like this template, you may like our other products as well.
