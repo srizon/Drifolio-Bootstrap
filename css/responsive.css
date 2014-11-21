@@ -1,0 +1,84 @@
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 1024px) {    
+    /*HREO AREA */
+    #hero{max-height: 660px;}    
+    
+    /* FEATURED CLIENTS SECTION*/
+    #clients img{height: 50px;}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 980px) {
+    
+    /*HREO AREA */
+    #hero{height: 540px;}
+    
+    /*ABOUT SECTION*/
+    #about{padding-top: 40px;}
+    
+    /* FEATURED CLIENTS SECTION*/
+    #clients {text-align: center;}
+    #clients img{height: 40px;}
+    #clients ul{float: none;}
+    #clients h4 {display: none;}
+    
+    /* PORTFOLIO SECTION */
+    #shotsByPlayerId li{width: 47%;}
+    #shotsByPlayerId li:first-child{width: 97%;}
+    
+    .myphoto{text-align: center;}
+
+    /*COLLUPSABLE NAVIGATION MENU*/
+    .navbar-header {float: none;}
+    .navbar-left,.navbar-right {float: none !important;}
+    .navbar-toggle {display: block;}
+    .navbar-collapse.collapse {display: none!important;}
+	.navbar-nav>li {
+        float: none;
+        padding-left: 30px;
+        overflow: hidden;
+    }
+    .collapse.in{display:block !important;}
+}
+
+
+/* Mobile Devices */
+@media only screen and (max-width : 640px) {
+    
+    h2 {font-size: 1.9em;}
+    h3{font-size: 1.5em}
+    h4{font-size: 1.1em;}
+    
+    
+    .myphoto{display: none;}
+
+    
+    /*Hero area*/
+    #hero{height: 400px;}    
+    .herocontent{padding-top: 30px;}
+    
+    /*About section*/
+    #about{text-align: center;}
+    
+    /*Portfolio*/
+    #shotsByPlayerId li {width: 96%;}
+    
+    /*Footer*/
+    .footerlinks li{display: none;}       
+}
+
+/* Smaller Mobile Devices */
+@media only screen and (max-width : 480px) {
+    #hero{height: 320px;}    
+    #clients {display: none;}
+    .footersocial li{font-size: 1.5em}
+}
+
+/* Smallest Mobile Devices */
+@media only screen and (max-width : 320px) {
+    #hero{height: 480px;}
+    .herocontent{padding-top: 100px; padding-bottom: 30px;}
+
+}
+
+

@@ -1,0 +1,246 @@
+*{	-webkit-transition: .7s ease-out;
+ 	-moz-transition: .7s ease-out;
+ 	-o-transition:  .7s ease-out;
+ 	transition: .7s ease-out;
+    list-style: none;
+}
+
+/*================================
+TYPOGRAPHY
+================================*/
+body {
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.8em;
+}
+
+.bigicon {font-size: 3em;}
+h2{font-size: 42px;}
+h3{font-size: 28px;}
+h4{font-size: 18px; line-height: 1.4em;}
+
+p{
+    letter-spacing: 1px;
+    color: #c3c3c3;
+    font-weight: lighter;
+}
+
+
+/*================================
+DEFAULT STYLE & FORMATING
+================================*/
+ul{padding: 0;}
+a{color: #ea9312}
+a:hover{color: #c3c3c3; text-decoration: none;}
+
+#services{text-align: center;}
+.col-md-4, .col-md-6{padding-bottom: 50px;}
+.col-md-3 {padding: 0;}
+
+.sectionhead{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+hr.separetor{
+    width: 80px;
+    color: #363942;
+    border-top: 2px solid #ea9312;
+}
+
+
+.btn-default{
+    background: none;
+    border: none;
+    text-transform: uppercase;
+    margin: 50px 0;
+    color: #c3c3c3;
+    letter-spacing: 2px;
+}
+
+.btn-default:hover{
+    background: none;
+    color: #ea9312;
+}
+
+.btnicon, .brandicon{
+    margin-right: 10px;
+}
+
+
+/*================================
+HERO AREA
+================================*/
+#hero{
+    color: #fff;
+    text-align: center;
+    background: url(../img/trianglify-background.svg)no-repeat; /*your background image*/
+    max-height: 880px;
+    overflow: hidden;
+}
+
+.herocontent{
+    padding-top: 100px;
+    width: 100%;
+    max-width: 900px;
+}
+.heroshot{
+    margin-top: 20px;
+    width: 100%;
+    max-width: 1200px;
+
+}
+
+/*================================
+CLIENTS SECTION
+================================*/
+#clients{
+    padding-top: 30px;
+}
+#clients h4{
+    text-transooteorm: uppercase;
+    padding-top: 10px;
+}
+
+#clients .col-md-4{
+    padding-bottom: 0;
+}
+
+#clients ul{float: right}
+
+#clients li{
+    display: inline;
+    margin-right: 35px;
+}
+
+#clients li:last-child{
+    margin-right: 0px;
+}
+
+
+/*================================
+ABOUT SECTION
+================================*/
+#about{padding-top: 100px;}
+
+.myapps{margin-top: 25px;}
+.myapps li{display: inline}
+.myapps li img{
+    width: 30px;
+}
+
+/*================================
+PORTFOLIO SECTION
+================================*/
+#portfolio{
+    background: #efefef;
+    margin-top: 50px;
+    padding: 30px 0;
+    text-align: center;
+}
+
+#shotsByPlayerId li{
+    width: 31%;
+    float: left;
+    padding: 15px;
+    margin: 10px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+#shotsByPlayerId li:hover{
+    box-shadow: 1px 2px 25px rgba(160, 160, 160, 0.4);
+    -webkit-transition: .7s ease-out;
+ 	-moz-transition: .7s ease-out;
+ 	-o-transition:  .7s ease-out;
+ 	transition: .7s ease-out;
+}
+
+#shotsByPlayerId li img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+#shotsByPlayerId img:hover{
+    opacity: .5;
+    overflow: hidden;
+}
+
+#shotsByPlayerId a:hover{color: #ea9312;}
+
+#shotsByPlayerId h3{
+    text-align: left;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: normal;
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;}
+
+#shotsByPlayerId h3 a{color: #363942;}
+
+.likecount a{float: left; color: #c3c3c3;}
+.commentcount a{float: right; color: #c3c3c3;}
+
+/*================================
+TESTIMONIAL SECTION
+================================*/
+
+.clientsphoto img{
+    width: 80px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.clientsphoto img:hover{
+    border-radius: 15%;
+}
+
+blockquote{
+    margin: 0;
+    padding: 0 0 10px 0;
+    border: none;
+}
+
+blockquote p{   
+    font-style: italic;
+    font-size: 14px;
+}
+
+.quote{overflow: hidden}
+.quote h5{margin-bottom: 5px;}
+
+
+/*================================
+FOOTER SECTION
+================================*/
+
+footer{
+    text-align: center;
+    padding: 50px 0;
+    background: #363942;
+}
+
+footer p, footer .bigicon {color: #7e7e7e;}
+
+.footerlinks{margin: 30px 0;}
+.footerlinks li{
+    display: inline;
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.footersocial {margin-top: 30px;}
+
+.footersocial li{
+    display:inline;
+    padding: 0 15px;
+    font-size: 2em;
+}
+
+.footersocial li a {color: #7e7e7e;}
+.footersocial li a:hover {color: #ea9312;}
