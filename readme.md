@@ -8,7 +8,7 @@ There are many designers around me don't have enough time to setup and manage th
 
 You just need to set your info and dribbble username, that's all. And after that, whenever you post something on dribbble, it'll come automatically to your website as well. There's nothing to do there again :)
 
-Live demo: http://creatrix.us/demo/drifolio/
+Live demo: https://www.evenfly.com/themes/drifolio/
 
 View the post on dribbble: http://drbl.in/mVHv
 
