@@ -316,7 +316,15 @@ FOLLOW BUTTON
 }
 
 .logo{
-    height:75px;
-    width: 75px;
+    height:125px;
 }
 
+.plus{
+    font-size: 5em;
+    padding-top: 20px;
+    vertical-align: sub;
+}
+
+#plus_row{
+    
+}
