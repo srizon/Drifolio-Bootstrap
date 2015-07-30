@@ -1,0 +1,665 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"include",
+				"include_once〔keyword〕"
+			],
+			[
+				"scr",
+				"scrollToBot"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"ngsw",
+				"ng-switch	AngularJS"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"ng",
+				"ng-textarea	AngularJS"
+			],
+			[
+				"portf",
+				"portfolioId"
+			],
+			[
+				"ng-switch",
+				"ng-switch-when	AngularJS"
+			],
+			[
+				"mi",
+				"miw	min-width"
+			],
+			[
+				"d",
+				"d:n	display:none"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"current",
+				"currentPortfolio"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"curre",
+				"currentFilter"
+			],
+			[
+				"curren",
+				"currentID"
+			],
+			[
+				"filter",
+				"filtersToReturn"
+			],
+			[
+				"filters",
+				"filtersToReturn"
+			],
+			[
+				"new",
+				"newEntry"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"$loca",
+				"$location	AngularJS"
+			],
+			[
+				"to",
+				"toggles"
+			],
+			[
+				"get",
+				"getAll"
+			],
+			[
+				"fi",
+				"filters"
+			],
+			[
+				"goto",
+				"gotoCreateNew"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"show",
+				"showFilters"
+			],
+			[
+				"di",
+				"disabled	Attr"
+			],
+			[
+				"market",
+				"marketEntry"
+			],
+			[
+				"marketE",
+				"marketEntries"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/drifolio.js",
+			"settings":
+			{
+				"buffer_size": 4063,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 98.0,
+		"last_filter": "set syntax php",
+		"selected_items":
+		[
+			[
+				"set syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax js",
+				"Set Syntax: JSON"
+			],
+			[
+				"setsyntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alex/Documents/GitHub/My_Website",
+		"/C/Users/Alex/Documents/GitHub/My_Website/css",
+		"/C/Users/Alex/Documents/GitHub/My_Website/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Alex/Documents/Private Tests/other_file.php",
+		"/C/Users/Alex/Documents/GitHub/My_Website/index.html",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Alex/Documents/GitHub/My_Website/js/drifolio.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/controllers.js",
+		"/C/Users/Alex/Documents/Private Tests/heshy_autocomplete.php",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Installed Packages/Preap.sublime-package",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/Theme - Brogrammer/brogrammer.tmTheme",
+		"/C/Users/Alex/Documents/GitHub/My_Website/css/style.css",
+		"/C/Users/Alex/Documents/GitHub/My_Website/.gitignore",
+		"/C/Users/Alex/Documents/GitHub/My_Website/gulpfile.js",
+		"/C/Users/Alex/AppData/Local/Google/Chrome/User Data/Default/Preferences",
+		"/C/Users/Alex/Desktop/srizon-Drifolio-Bootstrap-ea23d11/css/style.css",
+		"/C/Users/Alex/AppData/Roaming/Skype/My Skype Received Files/ca.cert.pem",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/app.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/chat-detail.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-market-message.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/services/market.service.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/services/account.portfolios.service.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/index.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/scss/ionic.app.scss",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/services/chat.service.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-account-new.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-market.html",
+		"/C/Users/Alex/Desktop/srizon-Drifolio-Bootstrap-ea23d11/css/animate.css",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/services/portfolio.service.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-portfolios-projectDetail.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-market-detail.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-account.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tabs.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/libs.module.js",
+		"/C/Users/Alex/AppData/Local/Temp/Temp1_angular-carousel-master (1).zip/angular-carousel-master/demo/flickr-full/app.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-chats.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-portfolios-filter.html",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/css/ionic.app.min.css",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-portfolios.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/services/person.service.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-portfolios-details.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-market-filter.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/services/market.filter.service.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tab-market-new.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/lib/ionic/scss/_list.scss",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/lib/ionic/css/ionic.css",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/lib/ionic/scss/_bar.scss",
+		"/C/Users/Alex/Documents/GitHub/Poparwin/examples/style.css",
+		"/C/Users/Alex/Documents/GitHub/Poparwin/examples/example_swipe.html",
+		"/C/Users/Alex/Documents/GitHub/Poparwin/examples/example_url.html",
+		"/C/Users/Alex/Downloads/Ascensor.js-master/examples/style.css",
+		"/C/Users/Alex/Downloads/Ascensor.js-master/examples/example_swipe.html",
+		"/C/Users/Alex/Downloads/Ascensor.js-master/Ascensor.js.jquery.json",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/css/fonts/stylesheet.css",
+		"/C/Users/Alex/Downloads/arealblblackweb.css",
+		"/C/Users/Alex/AppData/Local/Temp/Temp1_webfontkit-20150514-081400.zip/stylesheet.css",
+		"/C/Users/Alex/AppData/Local/Temp/Temp1_webfontkit-20150514-081636.zip/stylesheet.css",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/css/fonts/generator_config.txt",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/css/fonts/specimen_files/easytabs.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/services/filter.service.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/templates/tabs-marktplatz-filter.html",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/js/services.module.js",
+		"/C/Users/Alex/Documents/GitHub/ToniApp/App/ToniApp/www/data/marketEntries.json",
+		"/C/Users/Alex/Documents/GitHub/imitate-mint/Website/css/freelancer.css",
+		"/C/Users/Alex/Documents/GitHub/imitate-mint/Website/index.html",
+		"/C/Users/Alex/Desktop/vertical bullet nav/js/main.js",
+		"/C/Users/Alex/Desktop/Serie_05/Zimmermann_Bruno_S5_Aufg3.m",
+		"/C/Users/Alex/AppData/Local/Temp/Temp1_MyTraining-master.zip/MyTraining-master/index.html",
+		"/C/Users/Alex/Dropbox/Volleytalents/Allgemein/Fusszeile/Anleitung.txt",
+		"/C/Users/Alex/Dropbox/Volleytalents/Ironsquad/Anleitung.txt",
+		"/C/Users/Alex/Dropbox/Volleytalents/Volleytalents/Anleitung.txt",
+		"/C/Users/Alex/Dropbox/Volleytalents/News/Anleitung.txt",
+		"/C/Users/Alex/Dropbox/Volleytalents/Sponsoring/Anleitung.txt",
+		"/C/Users/Alex/Dropbox/Volleytalents/Team/Anleitung.txt",
+		"/C/Users/Alex/Dropbox/Volleytalents/Trainingsorganisation/Anleitung.txt",
+		"/C/Users/Alex/AppData/Local/Temp/Temp1_MyTraining-master.zip/MyTraining-master/js/controllers.js",
+		"/C/Users/Alex/Desktop/Serie_05/Zimmermann_Bruno_S5_Aufg1.m",
+		"/C/Users/Alex/Desktop/Serie_05/Zimmermann_Bruno_S5_Aufg2.m",
+		"/C/Users/Alex/Dropbox/IT 13 ZH/semester 4/swen2 - Software Entwicklung 2/Praktikas/P8/Anmerkungen.txt",
+		"/C/Users/Alex/Desktop/volley-talents-150406/wp-config.php",
+		"/C/Users/Alex/Dropbox/Volleytalents/Team/Teammitglieder.txt",
+		"/C/Users/Alex/Dropbox/Volleytalents/Startseite/Anleitung.txt",
+		"/C/Users/Alex/Dropbox/Volleytalents/Rookies/Anleitung.txt",
+		"/C/Users/Alex/Dropbox/Volleytalents/Kontakt/Anleitung.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			"C:\\Users\\Alex\\Documents\\GitHub\\ToniApp\\App\\ToniApp\\www\\lib\\ionic\\scss",
+			"C:\\Users\\Alex\\Documents\\GitHub\\ToniApp\\App\\ToniApp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"“",
+			"i",
+			"strong",
+			"h4",
+			" wow fadeInUp\" data-wow-duration=\"3s\"",
+			"wow fadeInUp",
+			"\"wow",
+			"wow",
+			"mode",
+			"film",
+			"scrollToBot",
+			"textarea",
+			"ios",
+			"ion-ios-people",
+			"ion-ios-person",
+			"paintbucket",
+			"ion-ios-chatboxes",
+			"ion-person",
+			"ion-noun_36217_cc",
+			"ion-noun_31887_cc",
+			"ion-chatbox-working",
+			"noun_12035_cc",
+			"14px",
+			"font-size:",
+			"*:",
+			"*",
+			"placeholder",
+			"banner: {",
+			"newPics",
+			"tplPages",
+			"tmpPage",
+			"tmpPages",
+			"$scope.pages",
+			"$scope.page",
+			"images",
+			"currentPerson",
+			"delegate-handle=\"userMessageScroll\"",
+			"ng-click=\"viewProfile(message)\" ",
+			"FFFFFF",
+			"bubble",
+			"from: 0,",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"From",
+			"from",
+			"conversation",
+			"lastText",
+			",\n        face: 'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11081316_10153128802383326_7628699609983322860_n.jpg?oh=60d2823edb8d0ae07395bd3b285ec3d2&oe=55D821B7&__gda__=1439452229_4e9daf55884ede1a60945abb18064bdd'\n    ",
+			"name:",
+			" ng-model",
+			"currentPerson.",
+			"item-text-wrap",
+			"ng-switch-when=\"true\"",
+			"<a",
+			"FilterCtrl",
+			"portfolios",
+			"console",
+			"market",
+			"project_tags:",
+			"picture:",
+			"creator_id",
+			"creator_id: 1",
+			"            ",
+			"5px",
+			",,",
+			"timespan",
+			"content_long:",
+			".filter",
+			"filter",
+			"text",
+			"active: false,",
+			"active: true,",
+			"currentFilter",
+			"false",
+			"bar-header",
+			"b2b2b2",
+			"bar-stable",
+			"/tab/market/",
+			"market",
+			"Info",
+			"ng-switch-when",
+			"!important;",
+			"red",
+			"#181818",
+			"909",
+			"portrait",
+			"href=\"#\"",
+			"class=\"item",
+			"face",
+			"}",
+			"face:",
+			"floor-5",
+			"],",
+			",",
+			"px",
+			"50",
+			"%",
+			" ",
+			"- ",
+			"-",
+			".floor",
+			"floor",
+			"timeout",
+			"userMessagesView",
+			"venkman",
+			"../img/",
+			"h4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"1D67B4",
+			"067AF2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/drifolio.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								228
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

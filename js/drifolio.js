@@ -105,7 +105,7 @@ $(function() {
                 .removeClass('animated fadeOutUp')
                 .addClass('animated fadeInDown')
                 .fadeIn();
-                
+
             } else {
                 $('.navbar')
                 .removeClass('animated fadeInDown')
