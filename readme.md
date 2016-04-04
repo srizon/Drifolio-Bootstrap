@@ -1,6 +1,6 @@
 <a href="http://creatrix.us/demo/drifolio/"><img src="http://shapebootstrap.net/wp-content/uploads/2014/11/Drifolio-Free-Responsive-Dribbble-Portfolio-Template-cover.jpg" alt="Drifolio – Free Responsive Dribbble Portfolio Template"></a>
 
-2016-04-04 <Buente> Playing around with the code to learn css/html and maybe use it for a little non-profit project called 'Reparette'.
+2016-04-04 Buente: Playing around with the code to learn css/html and maybe use it for a little non-profit project called 'Reparette'.
 
 What & Why Drifolio?
 ---------------------------
