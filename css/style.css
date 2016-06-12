@@ -75,6 +75,7 @@ HERO AREA
     color: #fff;
     text-align: center;
     background: url(../img/trianglify-background.svg)no-repeat; /*your background image*/
+    background-size: cover;
     max-height: 880px;
     overflow: hidden;
 }
