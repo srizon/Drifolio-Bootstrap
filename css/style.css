@@ -113,6 +113,7 @@ p{
 	letter-spacing: -1px;
 	margin:0 0 22px 0 ;
 	color:#fff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .we-create{
@@ -134,6 +135,7 @@ p{
 }
 .we-create li:first-child{
 	background:none;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .start-button {
