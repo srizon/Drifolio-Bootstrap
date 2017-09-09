@@ -1,4 +1,4 @@
-<a href="http://creatrix.us/demo/drifolio/"><img src="http://shapebootstrap.net/wp-content/uploads/2014/11/Drifolio-Free-Responsive-Dribbble-Portfolio-Template-cover.jpg" alt="Drifolio – Free Responsive Dribbble Portfolio Template"></a>
+<a href="http://creativealiens.com/demo/drifolio/"><img src="http://creativealiens.com/demo/drifolio/preview.png" alt="Drifolio – Free Responsive Dribbble Portfolio Template"></a>
 
 What & Why Drifolio?
 ---------------------------
@@ -8,12 +8,9 @@ There are many designers around me don't have enough time to setup and manage th
 
 You just need to set your info and dribbble username, that's all. And after that, whenever you post something on dribbble, it'll come automatically to your website as well. There's nothing to do there again :)
 
-Live demo: http://demo.evenfly.com/view?theme=Drifolio
+Live demo: http://creativealiens.com/demo/drifolio/
 
 View the post on dribbble: http://drbl.in/mVHv
-
-Also available on ShapeBootstrap:
-http://shapebootstrap.net/item/drifolio-free-responsive-dribbble-portfolio-template/
 
 This is a free Bootstrap powered HTML template from EvenFly. Feel free to download, modify and use it for yourself or your clients as long there is no money involved.
 
@@ -24,16 +21,16 @@ Documentetion and credits
 Here is a short documentetion about basic changes on the template
 http://goo.gl/FhmJav
 
-Feel free to drop an email to support@evenfly.com
+Feel free to drop an email to info@creativealiens.com
 if you have any question/suggestions.
 
 
 THANKS!
 ---------------------------
-If you like this template, you may like our other products as well.
+If you like this template, you may like our other works as well.
 Keep your eyes on 
-http://evenfly.com
+http://creativealiens.com
 
-Or follow us on
-https://www.facebook.com/evenflyteam or 
-https://twitter.com/EvenFlyTeam
+Or follow me on
+https://www.facebook.com/MamunSrizon or 
+https://twitter.com/MamunSrizon

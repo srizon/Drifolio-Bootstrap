@@ -17,10 +17,9 @@ body {
 h2{font-size: 42px;}
 h3{font-size: 28px;}
 h4{font-size: 18px; line-height: 1.4em;}
-
 p{
     letter-spacing: 1px;
-    color: #c3c3c3;
+    color: #666;
     font-weight: lighter;
 }
 
@@ -31,6 +30,7 @@ DEFAULT STYLE & FORMATING
 ul{padding: 0;}
 a{color: #ea9312}
 a:hover{color: #c3c3c3; text-decoration: none;}
+img{max-width: 100%;}
 
 #services{text-align: center;}
 .col-md-4, .col-md-6{padding-bottom: 50px;}
@@ -89,7 +89,6 @@ HERO AREA
     margin-top: 20px;
     width: 100%;
     max-width: 1200px;
-
 }
 
 /*================================
@@ -99,7 +98,6 @@ CLIENTS SECTION
     padding-top: 30px;
 }
 #clients h4{
-    text-transooteorm: uppercase;
     padding-top: 10px;
 }
 
@@ -134,56 +132,17 @@ ABOUT SECTION
 PORTFOLIO SECTION
 ================================*/
 #portfolio{
-    background: #efefef;
+    background: #f6f6f6;
     margin-top: 50px;
     padding: 30px 0;
     text-align: center;
 }
 
-#shotsByPlayerId li{
-    width: 31%;
-    float: left;
-    padding: 15px;
-    margin: 10px;
-    background: #fff;
-    border-radius: 5px;
+
+
+#portfolio img{    
+    border: 5px solid #fff;
 }
-
-#shotsByPlayerId li:hover{
-    box-shadow: 1px 2px 25px rgba(160, 160, 160, 0.4);
-    -webkit-transition: .7s ease-out;
- 	-moz-transition: .7s ease-out;
- 	-o-transition:  .7s ease-out;
- 	transition: .7s ease-out;
-}
-
-#shotsByPlayerId li img{
-    width: 100%;
-    border-radius: 5px;
-}
-
-#shotsByPlayerId img:hover{
-    opacity: .5;
-    overflow: hidden;
-}
-
-#shotsByPlayerId a:hover{color: #ea9312;}
-
-#shotsByPlayerId h3{
-    text-align: left;
-    font-size: 14px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    font-weight: normal;
-    white-space: nowrap;
-    width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;}
-
-#shotsByPlayerId h3 a{color: #363942;}
-
-.likecount a{float: left; color: #c3c3c3;}
-.commentcount a{float: right; color: #c3c3c3;}
 
 /*================================
 TESTIMONIAL SECTION
@@ -314,5 +273,10 @@ FOLLOW BUTTON
 .dribbble-follow-button .count u {
     margin-left: -3px;
     border-right-color: white;
+}
+
+
+@media (max-width: 767px){
+    .shots img{margin-bottom: 15px; max-width: 90%}
 }
 
